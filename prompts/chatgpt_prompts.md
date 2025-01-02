@@ -1,7 +1,3 @@
-# Prompts para GPT Personalizado da Meganium Games
-
-Este repositório contém exemplos de prompts úteis para extrair insights dos dados de vendas da Meganium Games, uma fabricante global de consoles. O objetivo é transformar dados provenientes de marketplaces como Shopee e AliExpress em informações relevantes para decisões estratégicas.
-
 ## **1. Consolidação de Dados**
 ### Objetivo
 Reunir e padronizar os dados de vendas de diferentes fontes.
